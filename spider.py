@@ -53,5 +53,5 @@ def save_movie(res,name):#保存视频
             f.write(data)
 
 if __name__ == "__main__":
-    url = "https://www.bilibili.com/video/av69542806?spm_id_from=333.334.b_62696c695f646f756761.5"
+    url = "https://www.bilibili.com/video/av91509520?t=310"
     star(url)
